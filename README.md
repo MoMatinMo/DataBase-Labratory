@@ -1,6 +1,7 @@
 # DataBase-Labratory
+# Mohammad Matin Mohammadi
 The Homeworks And Researches Of Database Class At Shamsipour University
-Created By MOhammad Matin Mohammadi 
+Created By Mohammad Matin Mohammadi 
 
 <div dir="rtl"> 
 بانک‌های اطلاعاتی SQL به صورت اصلی با عنوان بانک اطلاعاتی رابطه‌ای یا RDBMS شناخته می‌شود؛ بانک‌های اطلاعاتی NoSQL به عنوان بانک اطلاعاتی غیر رابطه‌ای و توزیع شده شناخته می‌شود.
