@@ -50,7 +50,7 @@ Rank Of Databases:
 داده های نشست
 داده های پردازش شده
 
- </div dir="rtl">  
+ 
 1. داده های ایستای فروشگاه آنلاین
 این مؤلفه شامل داده های تا حدی ثابت است که مشتری تنها برای بازیابی آنها در هنگام تعامل با فروشگاه آنلاین به آن نیاز دارد. داده ها در انواع جداول زیر ذخیره می شوند:
 
@@ -59,6 +59,7 @@ Rank Of Databases:
 
 3.داده های پردازش شده فروشگاه آنلاین
 هنگامی که مشتری یک تراکنش را تکمیل کرد، باید اطلاعات سفارش را با انتقال داده های جلسه به فضای ذخیره دائمی به طور دائم ذخیره کنیم. علاوه بر این، ما باید جزئیات پرداخت را نیز ذخیره کنیم.
+ </div dir="rtl"> 
 
  <div dir="rtl>  
    <h1>Data Types In Database</h1>
@@ -85,6 +86,6 @@ Binary data types are used to store binary data like images, files, etc. Common 
 Blob: Stores large binary objects.
 Binary: Fixed-length binary data.
 Varbinary: Variable-length binary data.
-
+</div>
 
 
