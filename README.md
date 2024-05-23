@@ -63,7 +63,7 @@ Rank Of Databases:
 
  <div dir="rtl>  
    <h1>Data Types In Database</h1>
-   1. Numeric Data Types
+  <h2> 1. Numeric Data Types<h2>
 Numeric data types are used to store numbers. They can be further categorized into:
 Integer: Stores whole numbers without decimal points.
 Decimal/Float: Stores numbers with decimal points.
