@@ -60,7 +60,7 @@ Rank Of Databases:
 3.داده های پردازش شده فروشگاه آنلاین
 هنگامی که مشتری یک تراکنش را تکمیل کرد، باید اطلاعات سفارش را با انتقال داده های جلسه به فضای ذخیره دائمی به طور دائم ذخیره کنیم. علاوه بر این، ما باید جزئیات پرداخت را نیز ذخیره کنیم.
 
- <div dir="ltr>  
+ <div dir="rtl>  
    <h1>Data Types In Database</h1>
    1. Numeric Data Types
 Numeric data types are used to store numbers. They can be further categorized into:
