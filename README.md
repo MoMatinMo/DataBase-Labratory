@@ -60,11 +60,31 @@ Rank Of Databases:
 3.داده های پردازش شده فروشگاه آنلاین
 هنگامی که مشتری یک تراکنش را تکمیل کرد، باید اطلاعات سفارش را با انتقال داده های جلسه به فضای ذخیره دائمی به طور دائم ذخیره کنیم. علاوه بر این، ما باید جزئیات پرداخت را نیز ذخیره کنیم.
 
- <div dir="rtl">  
-   <h1>استاندارد پایگاه داده برای یک ERP</h1>
-روش اجرای یک سیستم ERP میتواند ساده یا پیچیده باشد، بر اساس عواملی مانند اندازه سازمان، پیچیدگی پروژه و اینکه آیا شما در حال پیاده سازی یک راه حل داخلی یا ابری هستید، شرایط متفاوت خواهد بود.
+ <div dir="ltr>  
+   <h1>Data Types In Database</h1>
+   1. Numeric Data Types
+Numeric data types are used to store numbers. They can be further categorized into:
+Integer: Stores whole numbers without decimal points.
+Decimal/Float: Stores numbers with decimal points.
+Double: Stores double-precision floating-point numbers.
 
-راه حل های داخلی دارای مراحل اضافه شده شامل نصب زیرساخت های سخت افزاری و همچنین اضافه کردن کارکنان برای حفظ زیرساخت هستند. از آنجایی که تمام فعالیت‌های پشتیبانی، مانند میزبانی پیکربندی و راه‌ اندازی، در داخل مدیریت می‌شوند، این مراحل اضافه شده می‌توانند تغییر کرده و اغلب پیاده‌ سازی را طولانی کنند.
+2. Character Data Types
+Character data types are used to store text values. Common character data types include:
+Char: Fixed-length character strings.
+Varchar: Variable-length character strings.
+Text: Used for large text data.
 
-پیاده‌ سازی ERP ابری می‌تواند برخی از مراحل سنتی را که استقرار درون محل شامل می‌شود نادیده بگیرد. ارائه‌ دهنده راه‌ حل، زیرساخت را مدیریت می‌کند و به کسب‌ و کارها اجازه می‌دهد تا بر انتقال داده‌ ها، تغییرات فرآیند و آموزش کارکنان تمرکز کنند. مراحل اضافه شده میزبانی، سرورها و نگهداری معمولاً توسط فروشنده ERP مدیریت می شود.
+3. Date and Time Data Types
+Date and time data types are used to store temporal data. Common date and time data types include:
+Date: Stores date values.
+Time: Stores time values.
+Datetime/Timestamp: Stores both date and time values.
+
+5. Binary Data Types
+Binary data types are used to store binary data like images, files, etc. Common binary data types include:
+Blob: Stores large binary objects.
+Binary: Fixed-length binary data.
+Varbinary: Variable-length binary data.
+
+
 
